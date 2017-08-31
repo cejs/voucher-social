@@ -9,3 +9,16 @@ Para essa primeira versão utilizaremos [informações fornecidas pela prefeitur
 ![Renda Fortaleza](docs/mapa.png)
 
 No [site](http://mapas.fortaleza.ce.gov.br/) encontra em Social -> Indicadores do Milênio -> Renda Média
+
+## Convite
+
+Qualquer um pode contribuir com esse projeto, clamamos até que crie um versão se possível para sua cidade e quem sabe evoluímos a idéia a nível nacional.
+
+Fork, altere e submeta PR por favor.
+
+
+
+## License
+
+MIT  
+See [LICENSE](LICENSE) file.
